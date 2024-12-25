@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn==1.5.2
+matplotlib
+keras
+scikeras
+tensorflow==2.16.1
